@@ -5,8 +5,7 @@ import { ThemeContext } from '../../contexts/theme-context';
 import { aboutData } from '../../data/about-data';
 import styles from '../../styles/about.module.css';
 import AnimationLottie from '../animation';
-
-function About() {
+ function About() {
 
     const { theme } = useContext(ThemeContext);
     return (
