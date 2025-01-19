@@ -9,7 +9,10 @@ export const contactsData = {
     medium: 'https://medium.com/@aounshabbir432',
     stackOverflow: 'https://stackoverflow.com/users/26954034/muhammad-aoun-shabbir',
     devUsername: "muahammadaounshabbir",
+    //extra
     Xing: 'https://www.xing.com/profile/MuhammadAoun_Shabbir',
     Instagram: 'https://www.instagram.com/muhammadaounshabbir/',
-    completecodingCertificate: 'https://learn.completecoding.in/verify-certificate?serialno=0FY4DH5T',
-}
+    mentoringClub: 'https://www.mentoring-club.com/the-mentors/muhammad-aoun-shabbir',
+    WhatsApp: 'https://wa.me/+923116523937',
+    completeCodingCertificate: 'https://learn.completecoding.in/verify-certificate?serialno=0FY4DH5T',
+} 
